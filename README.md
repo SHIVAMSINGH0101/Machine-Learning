@@ -5,4 +5,4 @@ I have implemented the following Machine Learning Algorithms from scratch withou
 * Ada Boost
 * K-means clustering
 
-This all are my assinments of Machine Learning course CS60050.
+This all are my assignments of Machine Learning course CS60050.
