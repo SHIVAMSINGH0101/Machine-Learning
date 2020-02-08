@@ -4,4 +4,5 @@ I have implemented the following Machine Learning Algorithms from scratch withou
 * Naive Bayes
 * Ada Boost
 * K-means clustering
+
 This all are my assinments of Machine Learning course CS60050.
